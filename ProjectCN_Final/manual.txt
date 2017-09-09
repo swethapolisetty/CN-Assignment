@@ -1,0 +1,11 @@
+Run the CNProject.jar file by double clicking the file or can run the file from command prompt "java -jar <<location>>"
+Enter the First message and Click Enter
+Enter Second message in the Dialog Box and click Enter
+Click Play Button
+When the Red and Blue Balls reach their respective destinations.
+Click the buttons next  to each layer or link to display the corresponding values
+Pause button pauses the Balls movement
+Reset button resets the Balls to the Start position
+Radio buttons are not functinal as yet
+This project shows the CRC method of Error Detection
+Stop and Wait Protocol is demonstrated for Correct Messages
